@@ -1,4 +1,4 @@
-public class Variables {
+public class _03Variables {
   
     public static void main(String[ ]args){
         

@@ -1,4 +1,4 @@
-public class TypePromotion {
+public class _05TypePromotion {
     public static void main(String[] args) {
         
         //在Java中, 若兩個運算元的型別不同，會進行型別提升(type promotion)

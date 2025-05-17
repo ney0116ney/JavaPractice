@@ -1,4 +1,4 @@
-public class Expression {
+public class _06Expression {
     public static void main(String[] args) {
         int a = 10;
         int b = 3;

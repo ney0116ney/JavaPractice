@@ -1,4 +1,4 @@
-public class DataType {
+public class _04DataType {
     public static void main(String[] args) {
         
     //數字式的資料型態 整數

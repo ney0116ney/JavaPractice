@@ -1,4 +1,4 @@
-public class PersonInfo {
+public class _02PersonInfo {
     
     public static void main(String[ ]args){
 
